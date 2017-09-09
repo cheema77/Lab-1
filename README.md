@@ -11,3 +11,4 @@ const cities = [
 
 console.table(cities);
 ```
+oytput-https://ibb.co/jpf03a
